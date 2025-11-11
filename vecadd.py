@@ -9,5 +9,5 @@ def vecadd(a, b):
 	
 	
 def dotpdt(a,b):
-	print("yes")
+	print("yes it is possible")
 	return sum(x*y for x,y in zip(a,b))	
